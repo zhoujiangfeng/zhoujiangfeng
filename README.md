@@ -23,7 +23,7 @@
 
 ### Github State :sunny:
 
-[![IronmanJay's github stats](https://github-readme-stats.vercel.app/api?username=zhoujiangfeng)]
+![IronmanJay's github stats](https://github-readme-stats.vercel.app/api?username=zhoujiangfeng)
 
 
 
