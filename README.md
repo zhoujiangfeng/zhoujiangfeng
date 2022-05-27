@@ -1,8 +1,8 @@
 ### Student👨‍🎓
 
-| 简书                                       |
-| ------------------------------------------ |
-| [Click](https://blog.csdn.net/qq_44635691) |
+| 简书                                       |GitHub博客|
+| ------------------------------------------ |------------------------------------------|
+| [Click](https://blog.csdn.net/qq_44635691) |[go](https://zhoujiangfeng.github.io)|
 
 ### Languages and Tools :bulb:
 
